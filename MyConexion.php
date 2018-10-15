@@ -1,6 +1,6 @@
 <?php
 
-$conexion=mysql_connect("localhost","root","root");
+$conexion=mysql_connect("localhost","root","ej086a*");
 if(!$conexion)
 	echo utf8_decode("Error de conexión");
 
